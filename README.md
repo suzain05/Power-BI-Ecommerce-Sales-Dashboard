@@ -25,3 +25,5 @@ Geospatial Mapping  state level sales visualization
 Project title, prepared-by details, a short description of the report's purpose, a "Dashboard Includes" panel, and a hover tooltip giving quick context on report scope.
 
 **Page 2 — Executive Performance Report**
+
+KPI cards: Total Customers, Total Orders, Total Quantity, Total Sales, Total Profit
