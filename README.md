@@ -18,7 +18,7 @@ Power Query  data cleaning and transformation
 DAX  calendar table and measures
 Geospatial Mapping  state level sales visualization
 
-## 📄 Report Pages
+# 📄 Report Pages
 
 **Page 1 — Cover**
 
