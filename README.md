@@ -13,7 +13,7 @@ Kaggle Ecommerce sales dataset (191 order rows, 13 columns including Order ID, O
 
 # 🛠 Tools Used
 
-Power BI Desktop — data modeling, DAX, visuals
-Power Query — data cleaning and transformation
-DAX — calendar table and measures
-Geospatial Mapping  state-level sales visualization
+Power BI Desktop data modeling, DAX, visuals
+Power Query  data cleaning and transformation
+DAX  calendar table and measures
+Geospatial Mapping  state level sales visualization
