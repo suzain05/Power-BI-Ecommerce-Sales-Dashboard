@@ -26,4 +26,16 @@ Project title, prepared-by details, a short description of the report's purpose,
 
 **Page 2 — Executive Performance Report**
 
-KPI cards: Total Customers, Total Orders, Total Quantity, Total Sales, Total Profit
+KPI cards: Total Customers, Total Orders, Total Quantity, Total Sales, Total Profit                                                                                 
+Global slicers: Payment Mode, Category, State, Order Month
+
+# Visuals:
+
+Geographic Map Visual (Total Sales by State) — bubble scaling highlights core regional markets
+Sales by Category — horizontal bar chart
+Sales by Payment Mode — horizontal bar chart
+Sales Trend by Month — column chart
+
+**Page Navigation: custom buttons to move between Cover and Executive Report without relying on page tab**
+
+ 
