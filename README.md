@@ -10,3 +10,10 @@ This dashboard analyzes an e-commerce sales dataset sourced from Kaggle, providi
 # Dataset
 
 Kaggle Ecommerce sales dataset (191 order rows, 13 columns including Order ID, Order Date, Customer Name, Category, Payment Mode, Ship Mode, State, City, Quantity, Sales, Profit) Time Period: January  December 2023 Granularity: One row per order transaction
+
+# 🛠 Tools Used
+
+Power BI Desktop — data modeling, DAX, visuals
+Power Query — data cleaning and transformation
+DAX — calendar table and measures
+Geospatial Mapping — state-level sales visualization
