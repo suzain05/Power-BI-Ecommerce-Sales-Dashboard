@@ -17,3 +17,9 @@ Power BI Desktop data modeling, DAX, visuals
 Power Query  data cleaning and transformation
 DAX  calendar table and measures
 Geospatial Mapping  state level sales visualization
+
+## 📄 Report Pages
+
+**Page 1 — Cover**
+
+Project title, prepared-by details, a short description of the report's purpose, a "Dashboard Includes" panel, and a hover tooltip giving quick context on report scope.
