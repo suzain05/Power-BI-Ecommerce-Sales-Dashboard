@@ -108,15 +108,22 @@ Sales Trend by Month — column chart
 
 ## DAX IMAGE PREVIEW 
 
-![Dashboard](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/DASHBOARD.png)
+# CALENDAR
 
 ![Calendar Table](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/CALENDAR.png)
 
+# MODEL VIEW
+
 ![Model View](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/MODEL%20VIEW.png)
+
+# RELATIONSHIP
 
 ![Relationship](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/RELATIONSHIP.png)
 
+# POWER QUERY
+
 ![Power Query](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/POWER%20QUERY.png)
+
 
 ![DAX Calculation 1](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/DAX%20CALCLUATION%201.png)
 
