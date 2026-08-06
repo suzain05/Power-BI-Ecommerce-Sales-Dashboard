@@ -2,6 +2,9 @@
 
 An interactive Power BI dashboard analyzing e-commerce sales performance, customer behavior, payment preferences, and regional trends  built as part of my data analyst portfolio.
 
+## DASHBOARD PREVIEW 
+
+https://github.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/blob/main/Dashboard%20Screenshots/COVER%20PAGE.png
 
 # 🧾 About the Project
 
