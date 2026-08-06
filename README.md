@@ -79,4 +79,16 @@ Total Customers -	191
 -Sorted Month by Month Number so all visuals render in chronological order **(Jan → Dec)**
 
 ## DAX Measures:
+
+**Total Sales     = SUM(Sales[Sales])**
+
+**Total Sales     = SUM(Sales[Sales])**
+
+**Total Profit    = SUM(Sales[Profit])**
+
+**Total Orders    = DISTINCTCOUNT(Sales[Order ID])**
+
+**Total Customers = DISTINCTCOUNT(Sales[Customer Name])**
+
+**Total Quantity  = SUM(Sales[Quantity])**
  
