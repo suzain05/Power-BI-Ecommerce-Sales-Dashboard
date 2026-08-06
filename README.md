@@ -55,7 +55,10 @@ Total Customers -	191
  Total Sales -	$139.12K
 
  Total Profit -	$15.24K
+ 
 
  ## 🔎 Key Insights
+
+**Regional concentration: the Total Sales by State map reveals strong demand clusters in key metropolitan states, useful for targeted inventory and promotions1**
 
  
