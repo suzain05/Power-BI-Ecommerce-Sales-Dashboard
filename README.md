@@ -164,6 +164,24 @@ https://github.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/tree/main/Dashboa
 
 https://github.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/blob/main/README.md
 
+## 🧠 Skills Demonstrated
+
+- Data Cleaning (Power Query)
+  
+- Data Modeling
+  
+- DAX Measures
+  
+- Calendar Table Creation
+  
+- Interactive Dashboard Design
+  
+- KPI Development
+  
+- Data Visualization
+  
+- Business Insights
+
 
  ## 👤 Author
 
