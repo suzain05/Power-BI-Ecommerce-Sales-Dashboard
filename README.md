@@ -183,6 +183,29 @@ https://github.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/blob/main/README.
 - Business Insights
 
 
+## 🌟 Project Highlights
+
+- Interactive dashboard with dynamic slicers
+  
+- Executive KPI cards
+  
+- Sales trend analysis
+  
+- Regional sales visualization using maps
+  
+- Payment mode analysis
+  
+- Category-wise sales insights
+  
+- Custom Calendar Table
+
+- DAX-based calculations
+- 
+
+  ## 📌 Conclusion
+
+This project demonstrates my ability to clean, model, analyze, and visualize business data using Power BI. It reflects my understanding of data analytics concepts and my ability to transform raw data into meaningful business insights through interactive dashboards.
+ 
  ## 👤 Author
 
 **Fathima Suzain**
