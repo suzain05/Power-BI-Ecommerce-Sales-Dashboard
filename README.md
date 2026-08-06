@@ -9,7 +9,7 @@ An interactive Power BI dashboard analyzing e-commerce sales performance, custom
 ![Cover Page](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/COVER%20PAGE.png)
 
 
-**(DASHBOARD PAGE)**
+**(EXECUTIVE DASHBOARD PAGE)**
  ![Dashboard](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/DASHBOARD.png)
 
 
