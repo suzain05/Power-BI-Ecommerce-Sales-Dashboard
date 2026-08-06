@@ -32,8 +32,11 @@ Global slicers: Payment Mode, Category, State, Order Month
 # Visuals:
 
 Geographic Map Visual (Total Sales by State) — bubble scaling highlights core regional markets
+
 Sales by Category — horizontal bar chart
+
 Sales by Payment Mode — horizontal bar chart
+
 Sales Trend by Month — column chart
 
 **Page Navigation: custom buttons to move between Cover and Executive Report without relying on page tab**
@@ -52,5 +55,7 @@ Total Customers -	191
  Total Sales -	$139.12K
 
  Total Profit -	$15.24K
+
+ ## 🔎 Key Insights
 
  
