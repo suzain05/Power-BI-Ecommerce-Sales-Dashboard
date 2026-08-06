@@ -99,7 +99,11 @@ Total Customers -	191
 
 https://github.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/blob/main/Ecommerce_sales_powerbi__project.pbix
 
-**full technical & strategic documentation**
+**Full technical & strategic documentation**
 
 https://github.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/blob/main/Ecommerce_Dashboard_Documentation.pdf
+
+**dashboard preview images**
+
+https://github.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/tree/main/Dashboard%20Screenshots
  
