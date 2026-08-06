@@ -65,4 +65,9 @@ Total Customers -	191
 
 **Card-based payments lead: Credit Card ($64K) > COD ($39K) > EMI ($31K); UPI ($5K) remains underutilized  an opportunity for checkout conversion incentives**
 
+**Front-loaded monthly trend: sales peaked in January ($31K) during Q1, with steadier baseline volumes across H2 2023**
+
+
+ ## ⚙️ Data Modeling & DAX
+
  
