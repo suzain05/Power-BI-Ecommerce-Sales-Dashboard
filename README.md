@@ -2,6 +2,7 @@
 
 An interactive Power BI dashboard analyzing e-commerce sales performance, customer behavior, payment preferences, and regional trends  built as part of my data analyst portfolio.
 
+
 ## DASHBOARD PREVIEW 
 **(COVER PAGE)**
 
@@ -10,6 +11,7 @@ https://github.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/blob/main/Dashboa
 **(DASHBOARD PAGE)**
 
 https://github.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/blob/main/Dashboard%20Screenshots/DASHBOARD.png
+
 
 # 🧾 About the Project
 
@@ -47,6 +49,7 @@ Sales by Payment Mode — horizontal bar chart
 
 Sales Trend by Month — column chart
 
+
 **Page Navigation: custom buttons to move between Cover and Executive Report without relying on page tab**
 
 
@@ -54,7 +57,7 @@ Sales Trend by Month — column chart
  
 **Metric	Value**
 
-Total Customers -	191
+ Total Customers -	191
 
  Total Orders	 - 163
 
@@ -80,11 +83,12 @@ Total Customers -	191
 
 **Data Preparation: validated data types, cleaned missing/inconsistent values, built a dedicated Calendar table, established relationships, and built DAX measures for reporting.**
 
- -Built a Calendar table using **CALENDAR(),** with Year, Month, Month Number, and Quarter columns
+ -Built a Calendar table using **CALENDAR(),** with **Year, Month, Month Number, and Quarter columns**
 
 -Marked it as the official Date Table and related it to the Sales table on Order Date
 
 -Sorted Month by Month Number so all visuals render in chronological order **(Jan → Dec)**
+
 
 ## DAX Measures:
 
