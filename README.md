@@ -91,4 +91,7 @@ Total Customers -	191
 **Total Customers = DISTINCTCOUNT(Sales[Customer Name])**
 
 **Total Quantity  = SUM(Sales[Quantity])**
+
+
+## 📁 Files in this Repo
  
