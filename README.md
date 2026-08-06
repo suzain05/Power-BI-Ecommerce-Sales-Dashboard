@@ -38,4 +38,8 @@ Sales Trend by Month — column chart
 
 **Page Navigation: custom buttons to move between Cover and Executive Report without relying on page tab**
 
+
+ # 🔑 Key Metrics (Jan – Dec 2023)
+
+
  
