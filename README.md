@@ -112,8 +112,6 @@ Sales Trend by Month — column chart
 
 **Total Sales     = SUM(Sales[Sales])**
 
-**Total Sales     = SUM(Sales[Sales])**
-
 **Total Profit    = SUM(Sales[Profit])**
 
 **Total Orders    = DISTINCTCOUNT(Sales[Order ID])**
@@ -167,6 +165,9 @@ https://github.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/tree/main/Dashboa
 https://github.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/blob/main/README.md
 
 
-**👤 AuthorFathima Suzain Aspiring Data Analyst GitHub**
+ ## 👤 Author
 
+**Fathima Suzain**
+Aspiring Data Analyst
+[GitHub](https://github.com/suzain05)
  
