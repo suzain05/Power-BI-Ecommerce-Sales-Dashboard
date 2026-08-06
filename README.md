@@ -43,7 +43,7 @@ Sales Trend by Month — column chart
  
 **Metric	Value**
 
-**Total Customers -	191
+Total Customers -	191
 
  Total Orders	 - 163
 
@@ -51,6 +51,6 @@ Sales Trend by Month — column chart
 
  Total Sales -	$139.12K
 
- Total Profit -	$15.24K**
+ Total Profit -	$15.24K
 
  
