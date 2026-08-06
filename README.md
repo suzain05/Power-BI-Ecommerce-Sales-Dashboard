@@ -41,11 +41,16 @@ Sales Trend by Month — column chart
 
  # 🔑 Key Metrics (Jan – Dec 2023)
  
-**Metric	Value
-Total Customers	191
-Total Orders	163
-Total Quantity	840
-Total Sales	$139.12K
-Total Profit	$15.24K**
+**Metric	Value**
+
+**Total Customers -	191
+
+ Total Orders	 - 163
+
+ Total Quantity	- 840
+
+ Total Sales -	$139.12K
+
+ Total Profit -	$15.24K**
 
  
