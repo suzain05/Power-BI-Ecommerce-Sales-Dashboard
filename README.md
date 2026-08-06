@@ -70,4 +70,11 @@ Total Customers -	191
 
  ## ⚙️ Data Modeling & DAX
 
+Data Preparation: validated data types, cleaned missing/inconsistent values, built a dedicated Calendar table, established relationships, and built DAX measures for reporting.
+
+ -Built a Calendar table using **CALENDAR(),** with Year, Month, Month Number, and Quarter columns
+
+-Marked it as the official Date Table and related it to the Sales table on Order Date
+
+-Sorted Month by Month Number so all visuals render in chronological order (Jan → Dec)
  
