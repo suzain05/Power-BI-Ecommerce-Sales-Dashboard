@@ -94,6 +94,7 @@ Sales Trend by Month — column chart
 
 **Total Sales     = SUM(Sales[Sales])**
 
+
 **Total Sales     = SUM(Sales[Sales])**
 
 **Total Profit    = SUM(Sales[Profit])**
@@ -103,6 +104,29 @@ Sales Trend by Month — column chart
 **Total Customers = DISTINCTCOUNT(Sales[Customer Name])**
 
 **Total Quantity  = SUM(Sales[Quantity])**
+
+
+## DAX IMAGE PREVIEW 
+
+![Dashboard](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/DASHBOARD.png)
+
+![Calendar Table](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/CALENDAR.png)
+
+![Model View](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/MODEL%20VIEW.png)
+
+![Relationship](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/RELATIONSHIP.png)
+
+![Power Query](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/POWER%20QUERY.png)
+
+![DAX Calculation 1](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/DAX%20CALCLUATION%201.png)
+
+![DAX Calculation 2](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/DAX%20CALCLUATION%202.png)
+
+![DAX Calculation 3](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/DAX%20CALCLUATION%203.png)
+
+![DAX Calculation 4](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/DAX%20CALCLUATION%204.png)
+
+![DAX Calculation 5](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/DAX%20CALCLUATION%205.png)
 
 
 ## 📁 Files in this Repo
