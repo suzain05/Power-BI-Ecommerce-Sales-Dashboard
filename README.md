@@ -61,4 +61,8 @@ Total Customers -	191
 
 **Regional concentration: the Total Sales by State map reveals strong demand clusters in key metropolitan states, useful for targeted inventory and promotions1**
 
+**Electronics drives bulk revenue: $63K (45%) of total sales, ahead of Furniture ($49K / 35%) and Clothing ($27K / 19%)**
+
+**Card-based payments lead: Credit Card ($64K) > COD ($39K) > EMI ($31K); UPI ($5K) remains underutilized  an opportunity for checkout conversion incentives**
+
  
