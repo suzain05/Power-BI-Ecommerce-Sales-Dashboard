@@ -124,14 +124,23 @@ Sales Trend by Month — column chart
 
 ![Power Query](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/POWER%20QUERY.png)
 
+# TOTAL CUSTOMERS
 
 ![DAX Calculation 1](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/DAX%20CALCLUATION%201.png)
 
+# TOTAL ORDERS
+
 ![DAX Calculation 2](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/DAX%20CALCLUATION%202.png)
+
+# TOTAL PROFIT
 
 ![DAX Calculation 3](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/DAX%20CALCLUATION%203.png)
 
+# TOTAL QUANTITY
+
 ![DAX Calculation 4](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/DAX%20CALCLUATION%204.png)
+
+# TOTAL SALES
 
 ![DAX Calculation 5](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/DAX%20CALCLUATION%205.png)
 
