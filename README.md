@@ -94,4 +94,6 @@ Total Customers -	191
 
 
 ## 📁 Files in this Repo
+
+https://github.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/blob/main/Ecommerce_sales_powerbi__project.pbix
  
