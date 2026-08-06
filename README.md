@@ -89,23 +89,6 @@ Sales Trend by Month — column chart
 
 -Sorted Month by Month Number so all visuals render in chronological order **(Jan → Dec)**
 
-
-## DAX Measures:
-
-**Total Sales     = SUM(Sales[Sales])**
-
-
-**Total Sales     = SUM(Sales[Sales])**
-
-**Total Profit    = SUM(Sales[Profit])**
-
-**Total Orders    = DISTINCTCOUNT(Sales[Order ID])**
-
-**Total Customers = DISTINCTCOUNT(Sales[Customer Name])**
-
-**Total Quantity  = SUM(Sales[Quantity])**
-
-
 ## DAX IMAGE PREVIEW 
 
 # CALENDAR
@@ -123,6 +106,22 @@ Sales Trend by Month — column chart
 # POWER QUERY
 
 ![Power Query](https://raw.githubusercontent.com/suzain05/Power-BI-Ecommerce-Sales-Dashboard/main/Dashboard%20Screenshots/POWER%20QUERY.png)
+
+
+## DAX Measures:
+
+**Total Sales     = SUM(Sales[Sales])**
+
+**Total Sales     = SUM(Sales[Sales])**
+
+**Total Profit    = SUM(Sales[Profit])**
+
+**Total Orders    = DISTINCTCOUNT(Sales[Order ID])**
+
+**Total Customers = DISTINCTCOUNT(Sales[Customer Name])**
+
+**Total Quantity  = SUM(Sales[Quantity])**
+
 
 # TOTAL CUSTOMERS
 
